@@ -55,7 +55,8 @@
     "uniqCompNum": 2,
     "versionPublish": "5.6.0",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
-    "gdpr": false
+    "gdpr": false,
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
