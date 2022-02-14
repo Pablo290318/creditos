@@ -1383,7 +1383,7 @@
           "_cid": "sFCygHrmNf",
           "_anchor": "footer3-24",
           "_protectedParams": [],
-          "_global": true,
+          "_global": false,
           "_once": "footers",
           "_params": {}
         }
