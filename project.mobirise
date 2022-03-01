@@ -51,7 +51,7 @@
     "sitemapSwitcherAuto": "on",
     "siteUrl": "http://prestorapido.tk/",
     "cookiesAlert": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "uniqCompNum": 5,
     "versionPublish": "5.6.0",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
